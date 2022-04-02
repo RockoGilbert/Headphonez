@@ -53,6 +53,9 @@
   h2 {
     font-size: 1.8rem;
     line-height: 2.6rem;
+    padding-top: 15px;
+    max-width: 100%;
+    font-weight: normal;
   }
   
   /* PARAGRAPHS */
@@ -218,12 +221,14 @@
    min-height: 190px;
    background-repeat: no-repeat;
    background-size: contain; 
+   padding-top: 15px;
  }
   
  .percentage {
   font-size: 4.9rem;
   font-family: 'SourceBold';
   padding-top: 6rem;
+  font-weight: bold;
   
 }
 
