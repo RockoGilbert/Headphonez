@@ -7,8 +7,8 @@ In this project, you will implement from scratch, without any library, a web pag
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
 
 Here the final result:
-![Holberton Headphones](![image](https://user-images.githubusercontent.com/70171772/166981491-316d2fd0-0ace-4aed-aaca-f9ea415c165a.png)
-)
+![Holberton Headphones](https://user-images.githubusercontent.com/70171772/166981491-316d2fd0-0ace-4aed-aaca-f9ea415c165a.png)
+
 
 
 ## Requirements
